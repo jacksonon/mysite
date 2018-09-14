@@ -1,6 +1,9 @@
 # mysite
 Python Django 
 
+cd mysite
+python3 manage.py runserver
+open localhost:8000/blog
 
 ### 根据Django内模型生成对应的数据库表结构
 ```
